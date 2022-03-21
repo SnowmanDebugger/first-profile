@@ -1,2 +1,4 @@
-package com.Mrsmart.method;public class Demo01 {
+package com.Mrsmart.method;
+
+public class Demo01 {
 }

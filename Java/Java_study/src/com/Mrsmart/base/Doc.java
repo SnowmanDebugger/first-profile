@@ -1,3 +1,5 @@
+package com.Mrsmart.base;
+
 /**
  * @author Alex
  * @version 1.0

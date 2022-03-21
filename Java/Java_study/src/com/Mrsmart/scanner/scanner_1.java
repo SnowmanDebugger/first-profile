@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class scanner_1 {
+package com.Mrsmart.scanner;
+
+import java.util.Scanner;
+
+
+
+public class scanner_1 {
 }
